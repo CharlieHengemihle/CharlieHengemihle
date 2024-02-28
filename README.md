@@ -2,12 +2,12 @@
 
 - 🦝 I'm **Charlie Hengemihle**
 
-- 🤗 I use he/him pronouns
+- 🤗 I use they/he pronouns
 
-- 🔭 I’m currently working on a mobile app
+- 🔭 I’m currently working on with a Emergency Management start-up
 
 - 🖥 I'm a full-stack software developer
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning about Product Management
 - 💬 Ask me about disc golf 🥏 and gardening 🧄🌾
 - 📫 How to reach me: charliehengemihle@gmail.com &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charliehengemihle/)
 
